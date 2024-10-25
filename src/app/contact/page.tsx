@@ -1,4 +1,4 @@
-import Image from "next/image"
+
 export default function contact() {
   return (
     <main className="m-5 md:m-10 mx-30 md:mx-60">
